@@ -23,6 +23,7 @@ public class Plus_One{
             }
             int ans = x1*x2*x3;
             System.out.println(ans);
+            qw.close();
         }
     }
 }
