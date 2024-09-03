@@ -20,5 +20,6 @@ public class TalesOfASort {
             }
             System.out.println(max);
         }
+        qw.close();
     }
 }

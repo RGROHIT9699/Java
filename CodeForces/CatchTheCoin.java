@@ -4,7 +4,7 @@ public class CatchTheCoin {
         Scanner qw = new Scanner(System.in);
         int t = qw.nextInt();
         while(t-->0){
-            int x = qw.nextInt();
+            // int x = qw.nextInt();
             int y = qw.nextInt();
             if(y < -1){
                 System.out.println("NO");
@@ -12,5 +12,6 @@ public class CatchTheCoin {
                 System.out.println("YES");
             }
         }
+        qw.close();
     }
 }

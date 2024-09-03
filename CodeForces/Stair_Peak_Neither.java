@@ -16,5 +16,6 @@ public class Stair_Peak_Neither {
                 System.out.println("None");
             }
         }
+        qw.close();
     }
 }
