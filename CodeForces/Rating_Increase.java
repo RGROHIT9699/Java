@@ -26,5 +26,6 @@ public class Rating_Increase {
                 System.out.println(-1);
             }
         }
+        qw.close();
     }
 }
