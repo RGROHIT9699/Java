@@ -34,6 +34,7 @@ public class Intercepted_Input {
                 }
             }
         }
+        System.out.println("hello");
         qw.close();
     }
 }
